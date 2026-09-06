@@ -19,7 +19,7 @@ transparent decision-making and inclusive participation.
 - Can commit without a pull request and force push (but is expected to do so sparingly)
 - Merge and review pull requests
 - Manage and decide on releases
-- Act as a [maintainer](#maintainers)
+- Act as a [maintainer](https://github.com/jonathandung/.github/blob/main/GOVERNANCE.md#maintainers)
 
 ### Maintainers
 
@@ -28,7 +28,7 @@ transparent decision-making and inclusive participation.
 - Triage issues
 - Moderate GitHub discussions
 - Ensure code quality and project direction
-- Act as a [contributor](#contributors)
+- Act as a [contributor](https://github.com/jonathandung/.github/blob/main/GOVERNANCE.md#contributors)
 
 ### Contributors
 
